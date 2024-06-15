@@ -32,11 +32,16 @@
 </p>
 
 ### 📬 Get in Touch
+
 - 💬 Ask me about anything related to web development
 - 📫 How to reach me:
-  - [Email](mailto:ariashdez@outlook.com)
-  - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-arias-hern%C3%A1ndez-5067502aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPWBw2aySS2mjhKFyDKrP1w%3D%3D)
-  - [Instagram](https://www.instagram.com/arias_hernadez_/?igsh=MXN6d3FjanRwMm50cw%3D%3D)
+
+  - Email: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ariashdez@outlook.com)
+
+  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-manuel-arias-hern%C3%A1ndez-5067502aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPWBw2aySS2mjhKFyDKrP1w%3D%3D)
+
+  - Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arias_hernadez_/?igsh=MXN6d3FjanRwMm50cw%3D%3D)
+
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
