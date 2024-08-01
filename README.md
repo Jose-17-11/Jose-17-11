@@ -8,6 +8,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,astro,docker,git,github,linux" alt="Web Skills" />
 </p>
 
+### 🏄‍♂️ My Personal Project
+<div align="center">
+  <h2>Agencia 17-11</h2>
+  <p>Check out the latest project I'm working on, a blog site built with Astro and Tailwind CSS.</p>
+  <a href="https://agencia1711.site" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Project%20Blog-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Project Blog"/>
+  </a>
+</div>
+
+
 ### 🏄‍♂️ Project I'm Working On
 <div align="center">
   <h2>Surf Web Blog</h2>
